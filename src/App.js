@@ -9,7 +9,7 @@ const frameworksDictionary = {
     "@theflutterway",
     "@theboringdeveloper"
   ],
-  WEBDEVELOPMENT: ["@neogcamp", "@webdevelopment24x7", "@coding.batch"],
+  "WEB DEVELOPMENT": ["@neogcamp", "@webdevelopment24x7", "@coding.batch"],
   ANDROID: ["@android", "@adpth"],
   KOTLIN: ["@code.fun", "@dscvitpune"],
   PYTHON: ["@python.advance.projects", "@python_scripts"],
